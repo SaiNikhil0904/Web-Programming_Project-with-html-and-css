@@ -30,7 +30,7 @@
 .smallbox{
     width: 400px;
     height: 450px;
-    background:url(/image/Contact.jpg) ;
+    background:url(../image/Contact.jpg) ;
     /* background-color: aliceblue; */
     background-size: cover;
 
