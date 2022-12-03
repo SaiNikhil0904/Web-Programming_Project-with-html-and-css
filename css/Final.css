@@ -231,7 +231,7 @@ section{
 
 
 .home1{
-    background: url(/image/Home.jpeg) no-repeat;
+    background: url(./image/Home.jpeg) no-repeat;
     background-size: cover;
     height: 660px;
     background-position: center;
@@ -341,7 +341,7 @@ width: 350px;
 
 
 .home{
-    background: url(/image/banner-bg.jpg) no-repeat;
+    background: url(./image/banner-bg.jpg) no-repeat;
     height: 490px;
     background-size: cover;
     background-position: center;
@@ -511,7 +511,7 @@ width: 350px;
 
 
 .newsletter{
-    background:url(/image/blog-5.jpg) no-repeat;
+    background:url(./image/blog-5.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
