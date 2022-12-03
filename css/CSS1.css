@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nova+Flat&family=Qwitcher+Grypen&family=Rouge+Script&display=swap');
 
 body {  
-  background: url(/image/image.png) no-repeat;
+  background: url(../image/image.png) no-repeat;
   /* background-color: aliceblue; */
   width: 95%;
   padding-top: 100px;
